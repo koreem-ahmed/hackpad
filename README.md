@@ -11,5 +11,11 @@ this is my hackpad which has a roller a oled display and 9 keys and ofcourse the
 # lower part
 ![image](https://github.com/user-attachments/assets/43a2514e-9782-45ef-9dbe-94b85277dcd2)
 # the BOM
-![image](https://github.com/user-attachments/assets/b47ed102-8569-4dd7-9778-cf071f043aa3)
+all the components are in the kit.
+the Oled 
+9 switches 
+9 diodes 
+1 XIAO
+1 roller 
+and 4 rpg light leads.
 
