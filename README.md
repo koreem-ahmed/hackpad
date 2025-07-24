@@ -1,7 +1,8 @@
 # hackpad
 this is my hackpad which has a roller a oled display and 9 keys and ofcourse the pi2040
 # the pcb
-<img width="544" height="549" alt="image" src="https://github.com/user-attachments/assets/f05599fd-c8bb-40ce-a547-4261f511bb60" />
+<img width="843" height="812" alt="image" src="https://github.com/user-attachments/assets/6b4bee93-6e35-4fb3-a1cb-1445cd2af536" />
+
 
 
 # the schematic
