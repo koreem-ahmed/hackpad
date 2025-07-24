@@ -5,9 +5,11 @@ this is my hackpad which has a roller a oled display and 9 keys and ofcourse the
 # the schematic
 ![image](https://github.com/user-attachments/assets/452ce8a8-30b1-41c8-ac13-928cd64bdb8b)
 # the hole Hack pad
-![image](https://github.com/user-attachments/assets/f367bd54-ac27-4e82-9a31-1128a2e9f3d2)
+<img width="802" height="669" alt="image" src="https://github.com/user-attachments/assets/fa4e3d50-3ac4-4c9a-bdb6-6ca1f97a1126" />
+
 # upper part
-![image](https://github.com/user-attachments/assets/06865726-91e0-48d9-926b-1454aab9fa67)
+<img width="769" height="666" alt="image" src="https://github.com/user-attachments/assets/dc734d4d-f8b3-4a74-98d4-eb09227702a2" />
+
 # lower part
 ![image](https://github.com/user-attachments/assets/43a2514e-9782-45ef-9dbe-94b85277dcd2)
 # the BOM
