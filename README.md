@@ -1,5 +1,5 @@
 # hackpad
-this is my hackpad which has a roller a oled display and 9 keys and ofcourse the pi2040
+This is my hackpad, which has a roller, an OLED display, and 9 keys, and of course, the Pi2040. The hackpad is like a control set, which serves a unique purpose for every key. In my case, the first key is opening YouTube, and so on. It acts like a keyboard but for fast and small functions.
 # the pcb
 <img width="843" height="812" alt="image" src="https://github.com/user-attachments/assets/6b4bee93-6e35-4fb3-a1cb-1445cd2af536" />
 
